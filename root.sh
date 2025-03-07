@@ -3,6 +3,7 @@ sudo apt install zsh-autosuggestions -y
 
 sudo apt install net-tools -y
 sudo apt install gnome-disk-utility -y
+sudo apt install network-manager-fortisslvpn-gnome -y
 
 sudo apt install vim -y
 sudo cp vimrc /root/.vimrc
